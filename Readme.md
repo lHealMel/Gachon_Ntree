@@ -6,4 +6,5 @@
 
 <hr>
 실제 실행 결과
+
 ![모식도2](https://raw.githubusercontent.com/lHealMel/Gachon_Ntree/main/chart2.png)
